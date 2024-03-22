@@ -2,7 +2,7 @@ $(document).ready(function(){
 
     //txtarray = ['78hdns^&((', '%#*@(*$)^%', '&@*(#^☚!90', '*@!(mç$^&^#', '(*^&*@EHF&']
     txtarray = ['crap$$shit']
-    delay = 50
+    delay = 100
     cur = txtarray[0]
     flag = 0
     i=0
