@@ -1,0 +1,15 @@
+name: girasolai
+title: girasolai
+collections_dir: site_collections
+collections:
+  research:
+    output: true
+  team:
+    output: true 
+   
+url: https://girasolai.com    
+scholar:
+  # style: apa
+  group_by: year
+  group_order: descending
+  bibliography_template: bib
