@@ -16,7 +16,9 @@ order: 1
     <div class="motivation seven columns">
         <h3 class="heading">Who are we</h3>
         <p>
-             Calling out research bullshit since 2024.
+             Calling out research bullshit since 2024...
+        <br>
+        <br>
         </p>
     </div>
 </div>            
@@ -26,7 +28,7 @@ order: 1
     <div class="spacer-small"></div>
 </div>
 <div class="row">
-    <h1>Welcome to Girasol AI.</h1>
+    <h1>Welcome to Girasol AI</h1>
     <div class="row">
         <div class="three columns">
             <img width="100%" src="/assets/images/girasol.jpg">
